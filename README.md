@@ -25,3 +25,7 @@ I use GitHub the same way I approach vinyl and music production — hands-on, de
 ---
 
 This space reflects how I work, think, and grow: creatively, systematically, and without pretense.
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
