@@ -28,13 +28,13 @@ This space shows how I think and build — creative, structured, and unapologeti
 
 <!-- 🎯 Core Stack -->
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B5563?style=for-the-badge&logo=google-analytics&logoColor=white)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![📊 Excel](https://img.shields.io/badge/📊_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-5B63D2?style=for-the-badge&logo=python&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
 <!-- ⚙️ AI + Creative Identity -->
 [![AI–Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-EC4899?style=for-the-badge&logo=openai&logoColor=white)]()
-[![EliteTheOctoDog™](https://img.shields.io/badge/EliteTheOctoDog™-0D9488?style=for-the-badge)]()
+[![🐙🐶 EliteTheOctoDog™](https://img.shields.io/badge/🐙🐶_EliteTheOctoDog™-0D9488?style=for-the-badge)]()
 
 ---
 
