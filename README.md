@@ -4,7 +4,7 @@ Creative Systems Thinker with 20+ years of experience in structured data environ
 
 🧠 Promethean | 🎼 Song Architect | 🎧 Vinyl Manipulator  
 🖋️ Wordsmith | 📚 Sci-Fi + Fact Fanatic | 🦸 DC/Marvel Geek  
-💻 PC Nerd | 😈 Naughty by Nature | 💥 Bad MFer
+💻 PC Nerd | 😈 Naughty by Nature | 💥 Bad MFer | 🐙🐶 OctoDog
 
 I use GitHub the same way I approach vinyl and music production — hands-on, detail-driven, and built for real use, not theory.
 
