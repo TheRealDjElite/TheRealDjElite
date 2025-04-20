@@ -1,10 +1,10 @@
-# 🤙🏽 DJ ELITE™
+# 🤙🏽 DJ ELITE™ the OctoDog™ 🐙🐶
 
-🎯 Creative Systems Thinker with 20+ years in data operations, QA, and compliance. I’ve worked across eligibility systems, regulatory workflows, and remote teams. I solve problems by design and instinct. Now building with Python, SQL, and AWS on my own terms.
+🎯 With over 20 years in data operations, QA, and compliance, I bring a systems mindset rooted in clarity and creativity. I’ve worked across eligibility systems, regulatory workflows, and remote teams. I solve problems by design and instinct. Now building with Python, SQL, and AWS on my own terms.
 
-🧠 Promethean | 🎧 Vinyl Manipulator | 💻 PC Nerd | 🎼 Song Architect | 🐙🐶 OctoDog 
+🧠 Promethean   🎧 Vinyl Manipulator   💻 PC Nerd   🎼 Song Architect
 
-I use GitHub the same way I approach vinyl and music production — hands-on, detail-driven, and built for real use, not theory.
+I use GitHub the same way I approach vinyl and music production: hands-on, detail-driven, and built for real use, not theory.
 
 ---
 
@@ -24,7 +24,7 @@ I use GitHub the same way I approach vinyl and music production — hands-on, de
 
 ---
 
-This space reflects how I work, think, and grow: creatively, systematically, and without pretense.
+This space shows how I think and build — creative, structured, and unapologetically real.
 
 <!-- 🔹 Core Tools & Skills -->
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-1f2937?style=for-the-badge&logo=google-analytics&logoColor=white)]()
@@ -36,6 +36,4 @@ This space reflects how I work, think, and grow: creatively, systematically, and
 [![AI-Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-6a0dad?style=for-the-badge&logo=openai&logoColor=white)]()
 
 <!-- 🎧 Creative Identity -->
-[![DJ ELITE™](https://img.shields.io/badge/DJ_ELITE™-d50000?style=for-the-badge&logo=spinnaker&logoColor=white)]()
-[![🎧 Vinyl Manipulator](https://img.shields.io/badge/Vinyl_Manipulator-000000?style=for-the-badge)]()
 [![🐙🐶 OctoDog](https://img.shields.io/badge/🐙🐶_OctoDog-8b5cf6?style=for-the-badge)]()
