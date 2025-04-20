@@ -26,14 +26,12 @@ I use GitHub the same way I approach vinyl and music production: hands-on, detai
 
 This space shows how I think and build — creative, structured, and unapologetically real.
 
-<!-- 🔹 Core Tools & Skills -->
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-1f2937?style=for-the-badge&logo=google-analytics&logoColor=white)]()
+<!-- 🎯 Core Stack -->
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-4B5563?style=for-the-badge&logo=google-analytics&logoColor=white)]()
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-5B63D2?style=for-the-badge&logo=python&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-<!-- 🤖 AI-Enhanced Workflow -->
-[![AI-Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-6a0dad?style=for-the-badge&logo=openai&logoColor=white)]()
-
-<!-- 🎧 Creative Identity -->
-[![🐙🐶 OctoDog](https://img.shields.io/badge/🐙🐶_OctoDog-8b5cf6?style=for-the-badge)]()
+<!-- ⚙️ AI + Creative Identity -->
+[![AI–Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-EC4899?style=for-the-badge&logo=openai&logoColor=white)]()
+[![🐙🐶 OctoDog™](https://img.shields.io/badge/🐙🐶_OctoDog™-0D9488?style=for-the-badge)]()
