@@ -35,3 +35,13 @@ This space shows how I think and build — creative, structured, and unapologeti
 <!-- ⚙️ AI + Creative Identity -->
 [![AI–Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-EC4899?style=for-the-badge&logo=openai&logoColor=white)]()
 [![🐙🐶 OctoDog™](https://img.shields.io/badge/🐙🐶_OctoDog™-0D9488?style=for-the-badge)]()
+
+---
+
+<p align="center">
+  <img src="image/20250420-OctoDog-djE-GITHUB-tp.png" alt="OctoDog Logo – DJ ELITE" width="200"/>
+</p>
+
+<p align="center">
+  <strong>🐙🐶 OctoDog™ – Where creativity meets systems thinking</strong>
+</p>
