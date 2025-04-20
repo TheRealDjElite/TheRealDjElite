@@ -28,6 +28,9 @@ I use GitHub the same way I approach vinyl and music production — hands-on, de
 
 This space reflects how I work, think, and grow: creatively, systematically, and without pretense.
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![ChatGPT](https://img.shields.io/badge/AI%20Tools-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Remote Work](https://img.shields.io/badge/Remote%20Work-0078D4?style=for-the-badge&logo=windows&logoColor=white)]()
