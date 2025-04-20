@@ -2,7 +2,9 @@
 
 Creative Systems Thinker with 20+ years of experience in structured data environments — from eligibility systems and compliance to QA and remote workflows. I solve problems by design and by instinct. Now building with data-centric and cloud-supported tools like **Python**, **SQL**, and **AWS** — on my own terms.
 
-🧠 Promethean | 🎼 Song Architect | 🎧 Vinyl Manipulator | 🖋️ Wordsmith | 📚 Sci-Fi + Fact Fanatic | 🦸 DC/Marvel Geek | 💻 PC Nerd | 😈 Naughty by Nature | 💥 Bad MFer
+🧠 Promethean | 🎼 Song Architect | 🎧 Vinyl Manipulator  
+🖋️ Wordsmith | 📚 Sci-Fi + Fact Fanatic | 🦸 DC/Marvel Geek  
+💻 PC Nerd | 😈 Naughty by Nature | 💥 Bad MFer
 
 I use GitHub the same way I approach vinyl and music production — hands-on, detail-driven, and built for real use, not theory.
 
