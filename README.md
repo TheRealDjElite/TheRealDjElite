@@ -1,4 +1,4 @@
-# 🤙🏽 DJ ELITE™ the OctoDog™ 🐙🐶
+# 🤙🏽 **EliteTheOctoDog™** 🐙🐶
 
 🎯 With over 20 years in data operations, QA, and compliance, I bring a systems mindset rooted in clarity and creativity. I’ve worked across eligibility systems, regulatory workflows, and remote teams. I solve problems by design and instinct. Now building with Python, SQL, and AWS on my own terms.
 
@@ -34,14 +34,14 @@ This space shows how I think and build — creative, structured, and unapologeti
 
 <!-- ⚙️ AI + Creative Identity -->
 [![AI–Enhanced Workflow](https://img.shields.io/badge/AI–Enhanced_Workflow-EC4899?style=for-the-badge&logo=openai&logoColor=white)]()
-[![🐙🐶 OctoDog™](https://img.shields.io/badge/🐙🐶_OctoDog™-0D9488?style=for-the-badge)]()
+[![EliteTheOctoDog™](https://img.shields.io/badge/EliteTheOctoDog™-0D9488?style=for-the-badge)]()
 
 ---
 
 <p align="center">
-  <img src="image/20250420-OctoDog-djE-GITHUB-tp.png" alt="OctoDog Logo – DJ ELITE" width="200"/>
+  <img src="image/20250420-OctoDog-djE-GITHUB-tp.png" alt="EliteTheOctoDog Logo" width="200"/>
 </p>
 
 <p align="center">
-  <strong>🐙🐶 OctoDog™ – Where creativity meets systems thinking</strong>
+  <strong>🐙🐶 EliteTheOctoDog™ – Where creativity meets systems thinking</strong>
 </p>
