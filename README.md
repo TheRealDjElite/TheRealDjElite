@@ -1,6 +1,6 @@
 # 🤙🏽 **EliteTheOctoDog™** 🐙🐶
 
-🎯 With over 20 years in data operations, QA, and compliance, I bring a systems mindset rooted in clarity and creativity. I’ve worked across eligibility systems, regulatory workflows, and remote teams. I solve problems by design and instinct. Now building with Python, SQL, and AWS on my own terms.
+🎯 20+ years in data, quality assurance, and compliance. I’ve worked with eligibility systems, public programs, and remote teams. I solve problems with structure and creativity. Now building my own projects using Python, SQL, and AWS.
 
 🧠 Promethean   🎧 Vinyl Manipulator   💻 PC Nerd   🎼 Song Architect
 
