@@ -2,7 +2,7 @@
 
 🧠 Promethean mind in a practical world. I build with structure, clarity, and creative intent.
 
-🎯 20+ years in data, quality assurance, and compliance. I’ve worked across eligibility systems, public programs, and remote teams. I solve problems using both logic and instinct. Now learning Python, SQL, and AWS to build tools that solve real problems.
+🎯 **20+ years in data, quality assurance, and compliance.** I’ve worked across eligibility systems, public programs, and remote teams. I solve problems using both logic and instinct. **Now learning Python, SQL, and AWS** to build tools that solve real problems.
 
 💡 This is my learning space. I test ideas, build tools, and document my journey.
 
