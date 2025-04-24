@@ -1,4 +1,4 @@
-# 🤙🏽 **EliteTheOctoDog™** 🐙🐶
+# 🐙🐶 **EliteTheOctoDog™** 🤙🏽
 
 🧠 Promethean mind in a practical world. I build with structure, clarity, and creative intent.
 
