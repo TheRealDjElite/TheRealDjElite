@@ -2,17 +2,13 @@
 
 🧠 Promethean mind in a practical world. I build with structure, clarity, and creative intent.
 
-🎯 Experienced in data operations, quality assurance, and regulatory compliance across government and small business environments. Skilled in optimizing workflows, supporting remote teams, and resolving complex issues in high-pressure settings. Currently expanding my toolkit with Excel (advanced), Python, SQL, and AWS to build tools that improve efficiency and decision-making.
+🎯 Experienced in data operations, quality assurance, and regulatory compliance across government and small business environments. Skilled in resolving complex issues, supporting remote teams, and improving workflows in high-pressure settings. Currently deepening my skills in Excel (PivotTables), Python (automation), SQL (analysis), and AWS (CCP exam pending) to build tools that drive efficiency and better decision-making.
 
 💡 This is my learning space. I test ideas, build tools, and document my journey.
 
-Current focus:  
-🔹 Excel – leveling up with PivotTables and automation  
-🔹 Python – focused on problem-solving and automation  
-🔹 SQL – focused on analysis and reporting  
-🔹 AWS Cloud – completed UH course, CCP exam pending  
+---
 
-Key interests:  
+### 🔧 Key interests:
 ✔️ Data validation and accuracy  
 ✔️ Workflow and documentation cleanup  
 ✔️ Remote team support  
