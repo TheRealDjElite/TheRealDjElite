@@ -2,7 +2,7 @@
 
 🧠 Promethean mind in a practical world. I build with structure, clarity, and creative intent.
 
-🎯 **Extensive experience in data, quality assurance, and compliance.** Skilled in eligibility systems, public programs, and supporting remote teams. Known for solving problems with a balance of logic and intuition. Currently building skills in Python, SQL, and AWS to create tools that improve workflows and decision-making.
+🎯 Experienced in data operations, quality assurance, and regulatory compliance across government and small business environments. Skilled in optimizing workflows, supporting remote teams, and resolving complex issues in high-pressure settings. Currently expanding my toolkit with Python, SQL, and AWS to build tools that drive efficiency and better decision-making.
 
 💡 This is my learning space. I test ideas, build tools, and document my journey.
 
