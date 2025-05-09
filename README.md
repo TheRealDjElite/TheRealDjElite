@@ -18,6 +18,19 @@ Currently exploring automation, AI-enhanced workflows, and documentation systems
 
 ---
 
+### 🗣️ What others say (from LinkedIn recommendations):
+> “Exceptional attention to detail and a deep understanding of complex procedures... invaluable to team success.”
+
+> “A reliable, knowledgeable peer — always willing to solve problems quickly and support others under pressure.”
+
+> “Brings structure to chaos and improves team performance through clarity and consistency.”
+
+> “Combines strong logic with emotional intelligence — calm under pressure, honest communicator, and driven to fix things right.”
+
+Full testimonials available at: [LinkedIn.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
+
+---
+
 ### 🔧 Key interests:
 ✔️ Data validation and accuracy  
 ✔️ Workflow and documentation cleanup  
