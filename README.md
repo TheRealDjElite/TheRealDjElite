@@ -15,17 +15,10 @@ Analyzer-type thinker — structured, detail-focused, and motivated by clarity, 
 
 ## 🚧 Projects in Progress
 
-- **Data Validation Toolkit**  
-  Python + CSV checks for field-level accuracy and formatting
-
-- **Remote SOP Generator**  
-  Python tool that auto-generates structured SOPs for distributed teams
-
-- **Compliance Review Dashboard**  
-  Excel + SQL dashboard to track QA and eligibility audit outcomes
-
-- **Eligibility Case Tracker**  
-  Excel + Python hybrid template to log, resolve, and document eligibility decisions
+- **Data Validation Toolkit** – Python + CSV checks for field-level accuracy  
+- **Remote SOP Generator** – Python tool that auto-generates SOPs for distributed teams  
+- **Compliance Review Dashboard** – Excel + SQL tracker for QA and audit outcomes  
+- **Eligibility Case Tracker** – Excel + Python hybrid for tracking eligibility case decisions
 
 🔧 Exploring automation, AI-enhanced workflows, and smarter documentation systems.
 
@@ -43,8 +36,6 @@ Analyzer-type thinker — structured, detail-focused, and motivated by clarity, 
 ---
 
 ## 🧰 Key Tools + Skills
-
-Hands-on experience with:
 
 - 📊 **Data Analysis**
 - 📗 **Excel** (PivotTables, Power Query)
