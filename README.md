@@ -24,7 +24,7 @@ Structured, detail-focused, and motivated by clarity, consistency, and results. 
 
 ---
 
-## 🗣️ What Others Say
+## 🗣️ What Others Say (LinkedIn Recommendations)
 
 - "Incredibly detail-oriented and consistent under pressure."  
 - "Improves team workflows with clear, accurate documentation."  
