@@ -1,35 +1,35 @@
-🧠 Systems-Focused Analyst | Remote-First | QA + Compliance + Automation
+🧠 QA-Focused Analyst | Remote-First | Data, Compliance, Documentation
 
-Experienced in data operations, quality assurance, and regulatory compliance across government and small business environments. I build tools that improve accuracy, reduce errors, and streamline remote workflows.
+Experienced in data validation, quality assurance, and regulatory compliance across government and small business environments. I build tools that improve accuracy, reduce manual work, and support remote teams with structured workflows and clear documentation.
 
 🧩 **Working Style**  
-Analyzer-type thinker — structured, detail-focused, and motivated by clarity, accuracy, and results. I fix what others overlook and thrive in high-volume, rules-based systems.
+Structured, detail-focused, and motivated by clarity, consistency, and results. I identify and resolve data issues others overlook, and thrive in high-volume, rules-based systems.
 
 🎯 **Focus Areas**  
-- Data validation and field-level accuracy  
-- Workflow design and documentation cleanup  
+- Data validation and case-level accuracy  
+- SOP development and documentation cleanup  
 - Remote operations and peer training  
-- Automation, AI-enhanced processes, and structured problem-solving
+- Structured QA workflows and audit prep
 
 ---
 
 ## 🚧 Projects in Progress
 
-- **Data Validation Toolkit** – Python + CSV checks for field-level accuracy  
-- **Remote SOP Generator** – Python tool that auto-generates SOPs for distributed teams  
-- **Compliance Review Dashboard** – Excel + SQL tracker for QA and audit outcomes  
-- **Eligibility Case Tracker** – Excel + Python hybrid for tracking eligibility case decisions
+- **Data Validation Toolkit** – Python and CSV checks for QA workflows  
+- **Remote SOP Generator** – Python tool for standardizing peer documentation  
+- **Compliance Review Dashboard** – Excel and SQL tool for audit summaries  
+- **Eligibility Case Tracker** – Excel and Python hybrid for tracking eligibility decisions  
 
-🔧 Exploring automation, AI-enhanced workflows, and smarter documentation systems.
+🔧 All projects are based on real-world QA, audit, and documentation experience.
 
 ---
 
 ## 🗣️ What Others Say
 
-- “Exceptional attention to detail and a deep understanding of complex procedures… invaluable to team success.”  
-- “A reliable, knowledgeable peer — always willing to solve problems quickly and support others under pressure.”  
-- “Brings structure to chaos and improves team performance through clarity and consistency.”  
-- “Combines strong logic with emotional intelligence — calm under pressure, honest communicator, and driven to fix things right.”
+- "Incredibly detail-oriented and consistent under pressure."  
+- "Improves team workflows with clear, accurate documentation."  
+- "Brings structure to messy systems, dependable and process-driven."  
+- "Fast to solve problems and thorough in documenting them."
 
 🔗 Full testimonials: [linkedin.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
 
@@ -37,14 +37,14 @@ Analyzer-type thinker — structured, detail-focused, and motivated by clarity, 
 
 ## 🧰 Key Tools + Skills
 
-- 📊 **Data Analysis**
-- 📗 **Excel** (PivotTables, Power Query)
-- 🐍 **Python** (automation + scripting)
-- 🧮 **SQL** (reporting + validation)
-- 🤖 **AI-enhanced workflows** (ChatGPT, Copilot, Gemini)
+- 📊 **Data Analysis**  
+- 📗 **Excel** (QA tracking, formulas)  
+- 🐍 **Python** (basic scripting, validation tasks)  
+- 🧮 **SQL** (data pulls and conditional checks)  
+- 📝 **SOP Writing and Documentation**
 
 ---
 
 ## 🌐 Remote Work Ready
 
-Based in HST 🤙 Fully remote, experienced supporting teams across U.S. time zones — especially EST-aligned operations.
+Based in HST 🤙 Fully remote, experienced supporting teams across U.S. time zones, especially those aligned with EST.
