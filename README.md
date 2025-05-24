@@ -47,4 +47,4 @@ Structured, detail-focused, and motivated by clarity, consistency, and results. 
 
 ## 🌐 Remote Work Ready
 
-Based in HST 🤙 Fully remote, experienced supporting teams across U.S. time zones, especially those aligned with EST.
+Based in HST 🤙 and fully remote. Experienced supporting teams across U.S. time zones, especially those aligned with EST.
