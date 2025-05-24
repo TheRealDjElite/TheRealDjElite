@@ -13,7 +13,7 @@ Structured, detail-focused, and motivated by clarity, consistency, and results. 
 
 ---
 
-## 🚧 Projects in Progress
+## 🔨 Practical Projects
 
 - **Data Validation Toolkit** – Python and CSV checks for QA workflows  
 - **Remote SOP Generator** – Python tool for standardizing peer documentation  
