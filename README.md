@@ -1,4 +1,4 @@
-🧠 Data Analyst (in progress) | QA, Compliance & Ops Background | Excel • SQL • Python | Remote-Ready
+🧠 Data Analyst | QA, Compliance & Ops Background | Excel • SQL • Python | Remote-Ready
 
 Experienced in data validation, quality assurance, and regulatory compliance across government and small business environments. I build tools that improve accuracy, reduce manual work, and support remote teams with structured workflows and clear documentation.
 
