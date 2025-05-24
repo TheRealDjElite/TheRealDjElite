@@ -6,10 +6,10 @@ Experienced in data validation, quality assurance, and regulatory compliance acr
 Structured, detail-focused, and motivated by clarity, consistency, and results. I identify and resolve data issues others overlook, and thrive in high-volume, rules-based systems.
 
 🎯 **Focus Areas**  
-- Data validation and case-level accuracy  
-- SOP development and documentation cleanup  
-- Remote operations and peer training  
-- Structured QA workflows and audit prep
+- Data validation and quality assurance in high-volume systems
+- SOPs, audit guides, and documentation for remote teams
+- Workflow optimization and peer training support
+- Structured datasets and process-driven insights for decision-makers
 
 ---
 
