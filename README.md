@@ -1,35 +1,37 @@
-🧠 Data Analyst | QA, Compliance & Ops Background | Excel • SQL • Python | Remote-Ready
+🧠 Data Analyst · QA + Compliance · Excel · SQL · Python · Remote-First
 
-Experienced in data validation, quality assurance, and regulatory compliance across government and small business environments. I build tools that improve accuracy, reduce manual work, and support remote teams with structured workflows and clear documentation.
+Experienced in data validation, QA, and regulatory compliance across government and small business ops. I build tools that reduce manual work, improve accuracy, and support remote teams through structured workflows and clear documentation.
 
 🧩 **Working Style**  
-Structured, detail-focused, and motivated by clarity, consistency, and results. I identify and resolve data issues others overlook, and thrive in high-volume, rules-based systems.
+Structured, detail-focused, and results-driven. I identify and fix data issues others miss — especially in high-volume, rules-based systems.
 
 🎯 **Focus Areas**  
-- Data validation and quality assurance in high-volume systems
-- SOPs, audit guides, and documentation for remote teams
-- Workflow optimization and peer training support
-- Structured datasets and process-driven insights for decision-makers
+- Data validation and QA in eligibility and compliance workflows  
+- SOPs, audit docs, and remote-ready documentation systems  
+- Workflow optimization and peer training tools  
+- Structured insights that support decision-making
 
 ---
 
 ## 🔨 Practical Projects
 
-- **Data Validation Toolkit** – Python and CSV checks for QA workflows  
-- **Remote SOP Generator** – Python tool for standardizing peer documentation  
-- **Compliance Review Dashboard** – Excel and SQL tool for audit summaries  
-- **Eligibility Case Tracker** – Excel and Python hybrid for tracking eligibility decisions  
+> Built to solve real data ops and QA problems — not toy apps or clones.
 
-🔧 All projects are based on real-world QA, audit, and documentation experience.
+- **Data Validation Toolkit** – Python + CSV checks for QA workflows  
+- **Remote SOP Generator** – Auto-builds SOPs for distributed teams  
+- **Compliance Review Dashboard** – Excel + SQL audit tracking  
+- **Eligibility Case Tracker** – Excel/Python hybrid for tracking casework  
+
+🔧 All tools reflect real-world QA, audit, and documentation needs.
 
 ---
 
 ## 🗣️ What Others Say (LinkedIn Recommendations)
 
-- "Incredibly detail-oriented and consistent under pressure."  
-- "Improves team workflows with clear, accurate documentation."  
-- "Brings structure to messy systems, dependable and process-driven."  
-- "Fast to solve problems and thorough in documenting them."
+- "Incredibly detail-oriented and consistent under pressure"  
+- "Improves workflows with clear, accurate documentation"  
+- "Brings structure to messy systems, dependable and process-driven"  
+- "Fast to solve problems and thorough in documenting them"
 
 🔗 Full testimonials: [linkedin.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
 
@@ -37,14 +39,14 @@ Structured, detail-focused, and motivated by clarity, consistency, and results. 
 
 ## 🧰 Key Tools + Skills
 
-- 📊 **Data Analysis**  
-- 📗 **Excel** (QA tracking, formulas)  
-- 🐍 **Python** (basic scripting, validation tasks)  
-- 🧮 **SQL** (data pulls and conditional checks)  
-- 📝 **SOP Writing and Documentation**
+- Excel (QA tracking, formulas)  
+- Python (basic scripting, validation tasks)  
+- SQL (data pulls, logic checks)  
+- Data analysis and auditing  
+- SOP writing and documentation
 
 ---
 
 ## 🌐 Remote Work Ready
 
-Based in HST 🤙 and fully remote. Experienced supporting teams across U.S. time zones, especially those aligned with EST.
+Based in HST 🤙 and fully remote. Comfortable supporting distributed teams in all U.S. time zones — especially EST-aligned.
