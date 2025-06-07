@@ -1,4 +1,4 @@
-🧠 Data Analyst · QA + Compliance · Excel · SQL · Python · Remote-First
+📊 Data Analyst · QA + Compliance · Excel · SQL · Python · Remote-First
 
 Experienced in data validation, QA, and regulatory compliance across government and small business ops. I build tools that reduce manual work, improve accuracy, and support remote teams through structured workflows and clear documentation.
 
