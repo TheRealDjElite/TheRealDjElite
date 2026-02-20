@@ -29,7 +29,7 @@ Applied builds created while leveling up SQL, Python, and Excel. These are pract
 - "Brings structure to messy systems, dependable and process driven"
 - "Fast to solve problems and thorough in documenting them"
 
-Full testimonials: linkedin.com/in/JoeNetherland
+Full testimonials: [linkedin.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
 
 ## 🧰 Tools and Skills
 Excel (advanced formulas, QA tracking)  
