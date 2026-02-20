@@ -1,39 +1,46 @@
-# 📊 QA & Compliance Analyst · Data Validation & Reporting · Excel · SQL · Python · Remote-First
+# 📊 Systems Logic and Operations Analyst · QA, Compliance, Data Validation · Excel · SQL · Python · Remote First
 
-Experienced in data validation, QA, and regulatory compliance across government and small business ops. I build tools that reduce manual work, improve accuracy, and support remote teams with structured workflows and clear documentation.
+## 🧠 About Me
+Promethean logic builder with a broad systems background. I work across rules, data, workflows, and documentation to make complex operations behave. I learn new tools fast, adapt quickly to unfamiliar environments, and build solutions that support real teams without locking myself into a single specialty.
+
+My experience spans public programs, multi-system casework, compliance review, audit support, reporting, and technical troubleshooting. Years in rules-heavy environments shaped how I approach data, documentation, and workflow design. I build tools that cut manual work, sharpen accuracy, and keep remote teams aligned with clean logic and clear documentation.
 
 ## 🧩 Working Style
-Structured, detail-focused, and results-driven. I catch and fix data issues others miss — especially in high-volume, rules-based systems.
+Structured, detail focused, and steady under pressure. I catch issues early, trace inconsistencies back to their source, and rebuild workflows so they behave. I work best in defined systems where accuracy, logic, and consistency matter, but I adapt quickly when requirements shift.
 
 ## 🎯 Focus Areas
-- Data validation and QA in eligibility and compliance workflows  
-- SOPs, audit docs, and remote-ready documentation systems  
-- Workflow optimization and peer training tools  
-- Structured insights that support decision-making
+- Systems logic across eligibility, compliance, and operations
+- Data validation, QA, and multi-system consistency checks
+- SOPs, audit docs, and remote ready documentation
+- Workflow optimization and peer training tools
+- Pattern recognition and defect isolation across platforms
 
 ## 🔨 Portfolio Projects
-⚡ Built while learning SQL, Python, and Excel, with AI tools used to accelerate development. Applied builds for QA and compliance — not toy apps or clones.
+Applied builds created while leveling up SQL, Python, and Excel. These are practical tools shaped by real operational workflows.
 
-- **Data Validation Toolkit** – Python + CSV checks for QA workflows  
-- **Remote SOP Generator** – Auto-builds SOPs for distributed teams  
-- **Compliance Review Dashboard** – Excel + SQL audit tracking  
-- **Eligibility Case Tracker** – Excel/Python hybrid for tracking casework  
+- **Data Validation Toolkit** – Python checks for CSV and case data
+- **Remote SOP Generator** – Auto builds SOPs for distributed teams
+- **Compliance Review Dashboard** – Excel and SQL audit tracking
+- **Eligibility Case Tracker** – Excel and Python hybrid for casework
 
 ## 🗣️ Recommendations
-- *"Incredibly detail-oriented and consistent under pressure"*  
-- *"Improves workflows with clear, accurate documentation"*  
-- *"Brings structure to messy systems, dependable and process-driven"*  
-- *"Fast to solve problems and thorough in documenting them"*  
+- "Detail oriented and consistent under pressure"
+- "Improves workflows with clear, accurate documentation"
+- "Brings structure to messy systems, dependable and process driven"
+- "Fast to solve problems and thorough in documenting them"
 
-🔗 Full testimonials: [linkedin.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
+Full testimonials: linkedin.com/in/JoeNetherland
 
-## 🧰 Tools & Skills
-- Excel (QA tracking, formulas)  
-- Python (basic scripting, validation tasks)  
-- SQL (data pulls, logic checks)  
-- AI tools (ChatGPT, Copilot, Gemini, Perplexity)  
-- AWS Cloud Foundations (training complete, CCP exam pending)  
-- SharePoint, Office 365
+## 🧰 Tools and Skills
+Excel (advanced formulas, QA tracking)  
+Python (validation scripts)  
+SQL (logic checks, data pulls)  
+AI tools (ChatGPT, Copilot, Gemini, Perplexity)  
+SharePoint, Office 365  
+AWS Cloud Foundations (training complete, CCP exam pending)  
+
+## 🧱 Technical Foundation
+Hands-on experience in PC repair, system diagnostics, and multi-system troubleshooting. Early technical roles shaped how I isolate defects, test assumptions, and build controls that hold up under pressure.
 
 ## 🌐 Remote Work Ready
-Based in HST 🤙 and fully remote. Comfortable supporting distributed teams in all U.S. time zones — especially EST-aligned.
+Based in HST and fully remote. Comfortable supporting distributed teams across all U.S. time zones, especially EST aligned.
