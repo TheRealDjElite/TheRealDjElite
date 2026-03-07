@@ -4,11 +4,11 @@
 
 Analytical operations professional with a broad systems background. I work across data, workflows, documentation, and process improvement to make complex operations behave. I learn new tools fast, adapt quickly to unfamiliar environments, and build solutions that support real teams without locking myself into a single specialty.
 
-My experience spans government operations, consulting, private-sector project work, and multi-system data environments. Years in high-accountability, rules-driven environments shaped how I approach data, documentation, and workflow design. I build tools that cut manual work, sharpen accuracy, and keep remote teams aligned with clean logic and clear documentation.
+My experience spans government operations, consulting, private-sector project work, and multi-system data environments. Years in high-accountability, rules-driven environments shaped how I approach data, documentation, and workflow design. I build tools that cut manual work, sharpen accuracy, and keep remote teams aligned with clean logic and clear documentation. When something is broken I don't wait for permission to fix it.
 
 ## 🧩 Working Style
 
-Structured, detail focused, and steady under pressure. I catch issues early, trace inconsistencies back to their source, and rebuild workflows so they hold up. I work best in defined systems where accuracy, logic, and consistency matter, but I adapt quickly when requirements shift.
+Structured, detail focused, and steady under pressure. I catch issues early, trace inconsistencies back to their source, and rebuild workflows so they hold up. I work best in defined systems where accuracy, logic, and consistency matter, but I adapt quickly when requirements shift. I move fast when the path is clear and push through when it isn't.
 
 ## 🎯 Focus Areas
 
