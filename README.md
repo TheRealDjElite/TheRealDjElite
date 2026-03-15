@@ -1,4 +1,4 @@
-# 📊 Operations & Business Analyst · QA · Process Improvement · Data Validation · Excel · SQL · Python · Remote First
+# 📊 Operations & Business Analyst · QA · Process Improvement · Data Validation · Excel · Remote First
 
 ## 🧠 About Me
 
@@ -20,7 +20,7 @@ Structured, detail focused, and steady under pressure. I catch issues early, tra
 
 ## 🔨 Portfolio Projects
 
-Applied builds created while leveling up SQL, Python, and Excel. These are practical tools shaped by real operational workflows.
+Applied builds using AI-directed SQL, Python, and Excel -- practical tools shaped by real operational workflows.
 
 - **Data Validation Toolkit** – Python checks for CSV and case data
 - **Remote SOP Generator** – Auto builds SOPs for distributed teams
@@ -34,9 +34,9 @@ Full testimonials from colleagues and supervisors at Deloitte, Hawaii DHS, and b
 
 ## 🧰 Tools and Skills
 
-Excel (advanced formulas, QA tracking)  
-Python (validation scripts)  
-SQL (logic checks, data pulls)  
+Excel (decision tools, trackers, QA tracking)  
+AI-Directed Excel Modeling  
+AI-Assisted SQL and Python for Data Validation  
 AI tools (ChatGPT, Copilot, Gemini, Perplexity)  
 SharePoint, Office 365  
 AWS Cloud Foundations (completed) · Google Prompting Essentials (Coursera, May 2025)
