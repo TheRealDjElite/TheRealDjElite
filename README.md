@@ -77,6 +77,4 @@ not just a resume number.
 
 ## 🌐 Remote Work Ready
 
-Based in HST and fully remote, with direct experience supporting EST-aligned operations,
-consistent availability, and a proven record of delivering without someone looking
-over my shoulder.
+Based in HST and fully remote, with a proven record of supporting EST-aligned operations, zero attendance issues, and consistent on-time delivery without direct supervision.
