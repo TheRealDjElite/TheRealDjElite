@@ -1,31 +1,55 @@
-# 📊 Operations & Business Analyst · QA · Process Improvement · Data Validation · Excel · Remote First
+# 📊 Senior Operations & Business Analyst · Process Improvement · Remote First
 
 ## 🧠 About Me
 
-Analytical operations professional with a broad systems background. I work across data, workflows, documentation, and process improvement to make complex operations behave. I learn new tools fast, adapt quickly to unfamiliar environments, and build solutions that support real teams without locking myself into a single specialty.
+98%+ accuracy. Every role, every environment, every time.
 
-My experience spans government operations, consulting, private-sector project work, and multi-system data environments. Years in high-accountability, rules-driven environments shaped how I approach data, documentation, and workflow design. I build tools that cut manual work, sharpen accuracy, and keep remote teams aligned with clean logic and clear documentation. When something is broken I don't wait for permission to fix it.
+That is not a streak. That is how I work. I find what is broken, trace it to the root,
+fix it in a way that holds, and build documentation and controls so it does not break
+again. I have done that in state government, on a Deloitte surge contract, in private
+sector project operations, and in independent work where the only QA was mine.
+
+My foundation is technical. I started in PC repair and IT support, where the job was
+to diagnose the actual problem, not the reported one. That instinct never left. It is
+why I catch what others miss, why my documentation survives staff turnover, and why
+the tools I build keep working after I am gone.
+
+I do not need to be managed closely. I do not need the path cleared. I need a real
+problem and the autonomy to fix it right.
 
 ## 🧩 Working Style
 
-Structured, detail focused, and steady under pressure. I catch issues early, trace inconsistencies back to their source, and rebuild workflows so they hold up. I work best in defined systems where accuracy, logic, and consistency matter, but I adapt quickly when requirements shift. I move fast when the path is clear and push through when it isn't.
+I work in systems. When something is off I do not patch it, I trace it. I think in
+terms of what needs to happen, in what order, and what has to be true for it to hold
+up. I am precise, independent, and direct. I set a high standard for my own work and
+I notice when others do not meet theirs.
 
-## 🎯 Focus Areas
+I am not the analyst who keeps the seat warm. I am the one who figures out why the
+process keeps failing and builds the fix that actually sticks.
 
-- Operations analysis, process improvement, and workflow optimization
-- Data validation, QA, and multi-system consistency checks
-- SOPs, audit documentation, and remote-ready workflow standards
-- Reporting frameworks and decision-support tools
-- Pattern recognition and defect isolation across platforms
+## 🎯 What I Bring at This Level
+
+- 98%+ QA accuracy sustained across multiple industries and environments
+- The ability to see where a process is going to fail before it does
+- Controls, SOPs, and documentation built to outlast the person who wrote them
+- Decision-support tools that reduce rework, close consistency gaps, and hold up
+  under audit scrutiny
+- Pattern recognition across complex, multi-system data environments that most
+  analysts have to be told about
+- A technical foundation that is uncommon at this level and visible in the work
 
 ## 🔨 Portfolio Projects
 
-Applied builds using AI-directed SQL, Python, and Excel -- practical tools shaped by real operational workflows.
+Each project reflects a real operational gap. Built to solve it, documented to scale it.
 
-- **Data Validation Toolkit** – Python checks for CSV and case data
-- **Remote SOP Generator** – Auto builds SOPs for distributed teams
-- **Compliance Review Dashboard** – Excel and SQL audit tracking
-- **Eligibility Case Tracker** – Excel and Python hybrid for casework
+- **Data Validation Toolkit** - Python-based checks for CSV and case data; catches
+  inconsistencies before they reach reporting and eliminates manual review bottlenecks
+- **Remote SOP Generator** - Builds structured SOPs for distributed teams; closes
+  process drift before it becomes a compliance or onboarding problem
+- **Compliance Review Dashboard** - Excel and SQL audit tracker; keeps review cycles
+  on schedule and audit trails clean without manual chasing
+- **Eligibility Case Tracker** - Excel and Python hybrid built for high-volume casework
+  where accuracy and throughput are both non-negotiable
 
 ## 🗣️ Recommendations
 
@@ -34,17 +58,25 @@ Full testimonials from colleagues and supervisors at Deloitte, Hawaii DHS, and b
 
 ## 🧰 Tools and Skills
 
-Excel (decision tools, trackers, QA tracking)  
-AI-Directed Excel Modeling  
-AI-Assisted SQL and Python for Data Validation  
-AI tools (ChatGPT, Copilot, Gemini, Perplexity)  
-SharePoint, Office 365  
+Excel (decision tools, trackers, QA frameworks)
+SQL (data validation, case auditing, reporting queries)
+Python (workflow automation, data checks, CSV processing)
+AI tooling (ChatGPT, Claude, Copilot, Gemini, Perplexity, NotebookLM, Wolfram Alpha)
+SharePoint · Office 365
 AWS Cloud Foundations (completed) · Google Prompting Essentials (Coursera, May 2025)
 
 ## 🧱 Technical Foundation
 
-Hands-on experience in PC repair, system diagnostics, and multi-system troubleshooting. Early technical roles shaped how I isolate defects, test assumptions, and build controls that hold up under pressure.
+My career started in PC repair, system diagnostics, first-call resolution in technical
+support, and airline reservations on SABRE where a mistake had immediate consequences.
+Every one of those roles ran on the same standard: find the real problem, fix it
+correctly, and do not let it come back.
+
+That background is uncommon at this level. It is the reason the accuracy is real and
+not just a resume number.
 
 ## 🌐 Remote Work Ready
 
-Based in HST and fully remote, with direct experience supporting EST-aligned operations, consistent availability, and no attendance gaps across distributed team environments.
+Based in HST and fully remote, with direct experience supporting EST-aligned operations,
+consistent availability, and a proven record of delivering without someone looking
+over my shoulder.
