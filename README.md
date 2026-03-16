@@ -47,4 +47,4 @@ Hands-on experience in PC repair, system diagnostics, and multi-system troublesh
 
 ## 🌐 Remote Work Ready
 
-Based in HST and fully remote. Comfortable supporting distributed teams across all U.S. time zones, especially EST aligned.
+Based in HST and fully remote, with direct experience supporting EST-aligned operations, consistent availability, and no attendance gaps across distributed team environments.
