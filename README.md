@@ -53,7 +53,7 @@ Each project reflects a real operational gap. Built to solve it, documented to s
 
 ## 🗣️ Recommendations
 
-Full testimonials from colleagues and supervisors at Deloitte, Hawaii DHS, and beyond:
+Full testimonials from colleagues and supervisors:
 [linkedin.com/in/JoeNetherland](https://linkedin.com/in/JoeNetherland)
 
 ## 🧰 Tools and Skills
