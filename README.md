@@ -59,9 +59,9 @@ Full testimonials from colleagues and supervisors at Deloitte, Hawaii DHS, and b
 ## 🧰 Tools and Skills
 
 Excel (decision tools, trackers, QA frameworks)
-SQL (data validation, case auditing, reporting queries)
-Python (workflow automation, data checks, CSV processing)
-AI tooling (ChatGPT, Claude, Copilot, Gemini, Perplexity, NotebookLM, Wolfram Alpha)
+SQL (AI-accelerated: data validation, case auditing, reporting queries)
+Python (AI-accelerated: workflow automation, data checks, CSV processing)
+AI tooling (ChatGPT, Claude, Microsoft Copilot)
 SharePoint · Office 365
 AWS Cloud Foundations (completed) · Google Prompting Essentials (Coursera, May 2025)
 
