@@ -1,4 +1,4 @@
-# 📊 Senior Operations & Business Analyst · Process Improvement · Remote First
+# 📊 Senior Operations & Business Analyst · Process Improvement
 
 ## 🧠 About Me
 
