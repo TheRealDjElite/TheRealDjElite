@@ -17,23 +17,23 @@ Whether it’s securing high-value federal contracts by resolving compliance gap
 *Each repository reflects a solution to a real-world operational bottleneck.*
 
 ### [📂 Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool)
-**The Problem:** Manual casework in high-volume environments is prone to "human drift" and consistency errors.
-**The Fix:** A hybrid Excel/Python toolkit that performs automated logic checks on case data before it reaches reporting.
+**The Problem:** Manual casework in high-volume environments is prone to "human drift" and consistency errors.  
+**The Fix:** A hybrid Excel/Python toolkit that performs automated logic checks on case data before it reaches reporting.  
 **Tools:** Python (AI-assisted), Excel Power Query.
 
 ### [📂 Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard)
-**The Problem:** Audit readiness is often reactive, leading to operational "fire drills" during regulatory reviews.
-**The Fix:** A SQL-driven audit tracker that keeps review cycles on schedule and maintains a "single source of truth" for stakeholders.
+**The Problem:** Audit readiness is often reactive, leading to operational "fire drills" during regulatory reviews.  
+**The Fix:** A SQL-driven audit tracker that keeps review cycles on schedule and maintains a "single source of truth" for stakeholders.  
 **Tools:** SQL (AI-assisted), SharePoint.
 
 ### [📂 SOP Generator](https://github.com/TheRealDjElite/SopGenerator)
-**The Problem:** Tribal knowledge dies when staff turns over. Documentation is often the first thing to fail in distributed teams.
-**The Fix:** A structured generator that translates complex regulatory logic into repeatable, audit-ready Standard Operating Procedures.
+**The Problem:** Tribal knowledge dies when staff turns over. Documentation is often the first thing to fail in distributed teams.  
+**The Fix:** A structured generator that translates complex regulatory logic into repeatable, audit-ready Standard Operating Procedures.  
 **Tools:** Python, Markdown, AI Prompt Engineering.
 
 ### [📂 Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker)
-**The Problem:** High-volume casework where manual monitoring leads to missed deadlines and untracked inaccuracies.
-**The Fix:** A logic-heavy tracking system built to manage throughput and maintain 98%+ accuracy under strict audit standards.
+**The Problem:** High-volume casework where manual monitoring leads to missed deadlines and untracked inaccuracies.  
+**The Fix:** A logic-heavy tracking system built to manage throughput and maintain 98%+ accuracy under strict audit standards.  
 **Tools:** Excel (Advanced), Python (AI-assisted).
 
 ## 🧰 Technical Stack
