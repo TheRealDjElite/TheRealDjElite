@@ -1,10 +1,10 @@
 # 📊 Joseph Netherland | Senior Operations & Business Analyst
 
-[![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)]
-[![Remote-Fully_Flex](https://img.shields.io/badge/Remote-Fully_Flex-00D4AA?style=flat)]
-[![Python-AI_Accelerated](https://img.shields.io/badge/Python-AI_Accelerated-3776AB?style=flat)]
-[![SQL-AI_Accelerated](https://img.shields.io/badge/SQL-AI_Accelerated-007ACC?style=flat)]
-[![Excel-Advanced_QA](https://img.shields.io/badge/Excel-Advanced_QA-217346?style=flat)]
+![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)
+![Remote-Fully_Flex](https://img.shields.io/badge/Remote-Fully_Flex-00D4AA?style=flat)
+![Python-AI_Accelerated](https://img.shields.io/badge/Python-AI_Accelerated-3776AB?style=flat)
+![SQL-AI_Accelerated](https://img.shields.io/badge/SQL-AI_Accelerated-007ACC?style=flat)
+![Excel-Advanced_QA](https://img.shields.io/badge/Excel-Advanced_QA-217346?style=flat)
 
 ### **Predictive Index: Analyzer** | 98%+ Accuracy | Process Logic & Compliance
 
