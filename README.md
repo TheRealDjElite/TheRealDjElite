@@ -4,7 +4,7 @@
 ## 🧠 The Core Pitch
 **I am paid for knowing what is broken, fixing it right, and building controls that hold.**
 
-With 20 years of experience spanning state government, global consulting, and private sector operations, I don't just "analyze" data—I build reliability. My background is rooted in technical diagnostics and IT support, giving me a "root-cause" instinct that ensures solutions are built on logic, not just temporary patches.
+With 20 years of experience spanning state government, global consulting, and private-sector operations, I don't just "analyze" data; I build reliability. My background is rooted in technical diagnostics and IT support, giving me a "root-cause" instinct that ensures solutions are built on logic, not just temporary patches.
 
 Whether it’s securing high-value federal contracts by resolving compliance gaps or maintaining **98%+ accuracy across 7,500+ high-velocity case reviews**, my standard remains the same: **Find the real problem, build the fix, and document the solution so it never breaks again.**
 
