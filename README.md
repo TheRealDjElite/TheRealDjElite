@@ -43,4 +43,6 @@ With 20 years across government, consulting, and private sectors, I deliver 98%+
 ## 🗣️ Let's Connect
 Targeting remote Senior Analyst roles needing precision logic.
 
-[🔗 LinkedIn](https://linkedin.com/in/JoeNetherland) | [📧 Email](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JoeNetherland)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
+[![Google Developers](https://img.shields.io/badge/Google_Devs-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/TheRealDjElite)
