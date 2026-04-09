@@ -1,4 +1,4 @@
-# 📊 Joseph Netherland | Senior Operations & Business Analyst
+# 📊 Senior Operations & Business Analyst
 
 ![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)
 ![Remote-Fully_Flex](https://img.shields.io/badge/Remote-Fully_Flex-00D4AA?style=flat)
