@@ -9,16 +9,16 @@
 ### **Predictive Index: Analyzer** | 98%+ Accuracy | Process Logic & Compliance
 
 ## 🚀 Quick Intro (Elevator Pitch)
-👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_businessanalyst-remotejobs-opentowork-activity-7446893315716820992--Glr?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
+👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_quick-intro-one-sheet-attached-senior-activity-7450295630775873536-3WjV?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
 **I am paid for knowing what is broken, fixing it right, and building controls that hold.**
 
-With 20 years across government, consulting, and private sectors, I deliver 98%+ accuracy in high-volume decisions like 7,500+ case reviews. My technical foundation in IT diagnostics ensures root-cause fixes that support compliance, surge ops, and reporting.
+With 20 years across government, consulting, and private sectors, I delivered 98%+ accuracy across 7,500+ high-volume case reviews. My IT support background enables root cause analysis and structured troubleshooting in complex systems.
 
-## 🧩 Professional DNA
-- **Systems Thinker:** Traces patterns for stable, audit-ready processes in remote settings.
-- **Autonomy-Driven:** Excels independently, aligning with Agile/Scrum and mainland ops from HST.
-- **Analytical Precision:** Pattern recognition flags drifts; literal logic drives 98%+ sustained accuracy.
+## 🧩 Work Approach
+- Identifies breakdown points in high-volume workflows and performs root cause analysis  
+- Operates independently in structured, iterative environments with minimal supervision  
+- Applies pattern detection to maintain accuracy in rules-driven systems  
 
 ## 🔨 Portfolio Projects
 
@@ -33,15 +33,15 @@ With 20 years across government, consulting, and private sectors, I deliver 98%+
 - **Core:** Excel (decision tools/QA), SQL/Python (AI-accelerated validation/audits).
 - **Systems:** Office 365, SharePoint, rules-based case systems.
 - **Credentials:** AWS Cloud Foundations (2025), Google Prompting Essentials (2025).
-- **Differentiator:** IT background lets me master complex systems faster than typical analysts.
+- **Differentiator:** IT background supports rapid onboarding of complex systems and workflows.
 
 ## 📈 Proven Impact
-- Recovered $650K federal contract in 3 weeks via OSHA/military compliance fixes.
-- 98%+ accuracy over 20 years; 20% rework cut via mentorship/SOPs.
-- HST remote: Zero attendance issues, on-time delivery for EST ops.
+- Secured a $650K federal contract stalled for 6 months within 3 weeks by resolving OSHA and military compliance gaps.
+- 98%+ accuracy in high-volume case environments over time; reduced rework through structured validation and SOP improvements.
+- HST remote delivery: consistent on-time execution supporting EST-based operations.
 
 ## 🗣️ Let's Connect
-Targeting remote Senior Analyst roles needing precision logic.
+Targeting remote Senior Analyst roles in operations, QA, compliance, and process improvement.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&version=2)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
