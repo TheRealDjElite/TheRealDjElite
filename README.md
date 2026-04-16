@@ -9,7 +9,7 @@
 ### **Predictive Index: Analyzer** | 98%+ Accuracy | Process Logic & Compliance
 
 ## 🚀 Quick Intro (Elevator Pitch)
-👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_quick-intro-one-sheet-attached-senior-activity-7450295630775873536-3WjV?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
+👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_operationsmanagement-compliance-qualityassurance-activity-7450509501335601152-jA5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
 **I am paid for knowing what is broken, fixing it right, and building controls that hold.**
 
