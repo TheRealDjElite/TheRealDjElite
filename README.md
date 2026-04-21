@@ -12,7 +12,7 @@
 
 👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_operationsmanagement-compliance-qualityassurance-activity-7450509501335601152-jA5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
-I am paid for identifying what is broken in structured systems, correcting it, and building controls that reduce repeat failure.
+I identify data and workflow defects, resolve discrepancies, and implement rule-based controls to maintain audit-level accuracy.
 
 20+ years across government, consulting, and private-sector operations. Delivered 98%+ accuracy across 7,500+ high-volume case reviews. IT support background supports structured troubleshooting across complex systems and workflows.
 
