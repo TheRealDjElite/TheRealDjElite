@@ -1,4 +1,4 @@
-# 📊 Senior Operations, Compliance & Business Analyst
+# Workflow validation, compliance, and data quality tools for structured operational environments
 
 [![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)](https://share.google/aimode/aQha0t9hn5IJDKTas)
 [![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)](https://share.google/aimode/Jz2aQ7aJ0BB0Q9s6V)
@@ -8,15 +8,13 @@
 <br>
 <sub>_All badges are clickable links to supporting references and additional context._</sub>
 
-### Predictive Index: Analyzer | Structured, pattern-based operations and compliance-focused analysis
+### Structured, pattern-based operations and compliance-focused analysis
 
 ## 🚀 Quick Intro (Elevator Pitch)
 
 👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_operationsmanagement-compliance-qualityassurance-activity-7450509501335601152-jA5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
-Data and workflow defects are identified through structured review processes. Discrepancies are resolved using rule-based validation logic applied to operational datasets.
-
-20+ years across government programs, consulting, and high-volume processing environments with focus on data integrity, compliance requirements, and operational consistency.
+Focus on structured analysis of operational data, workflow validation, and compliance-driven processes. Projects demonstrate rule-based validation, SQL auditing, and process standardization using Python, Excel, and SQL.
 
 ## 🧩 Work Approach
 
@@ -42,19 +40,13 @@ Data and workflow defects are identified through structured review processes. Di
 - AWS Cloud Foundations (2025), Google Prompting Essentials (2025)  
 - IT support background applied to structured troubleshooting across systems and data workflows  
 
-## 📈 Proven Impact
-
-- Supported resolution of a $650K federal contract stalled for 6 months by addressing compliance and process gaps within 3 weeks  
-- Maintained 98%+ accuracy across high-volume case review environments  
-- Reduced rework through structured validation and review processes  
-- Supported remote operations across HST-based workflows aligned with EST schedules  
-
 ## 🗣️ Let's Connect
 
 Targeting remote Senior Analyst roles in operations, compliance, QA, eligibility, and process improvement.
 
-<sub>_Click badges below for profiles and contact links._</sub>
+<sub>Click badges below for profiles and contact links.</sub>
 <br><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
 [![Google Dev](https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/TheRealDjElite)
