@@ -1,6 +1,6 @@
 # 📊 Senior Operations, Compliance & Business Analyst
 
-[![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)](https://share.google/aimode/oyqE9XaUq7UpWFdoy)
+[![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)](https://share.google/aimode/aQha0t9hn5IJDKTas)
 [![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)](https://share.google/aimode/Jz2aQ7aJ0BB0Q9s6V)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://share.google/aimode/gEobHuJcoaXazf5m9)
 [![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://share.google/aimode/wJ2LGUX8RKsdudtQN)
