@@ -1,4 +1,4 @@
-# 📊 Senior Operations & Business Analyst
+# 📊 Senior Operations, Compliance & Business Analyst
 
 ![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)
 ![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)
@@ -14,7 +14,7 @@
 
 I identify data and workflow defects, resolve discrepancies, and implement rule-based controls to maintain audit-level accuracy.
 
-20+ years across government, consulting, and private-sector operations. Delivered 98%+ accuracy across 7,500+ high-volume case reviews. IT support background supports structured troubleshooting across complex systems and workflows.
+20+ years across government, consulting, and private-sector operations. Delivered 98%+ accuracy across 7,500+ high-volume case reviews. IT support background enabling structured troubleshooting across enterprise systems and operational data workflows.
 
 ## 🧩 Work Approach
 
@@ -27,21 +27,21 @@ I identify data and workflow defects, resolve discrepancies, and implement rule-
 
 | Project | Problem | Fix | Tools |
 |---------|---------|-----|-------|
-| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual errors in high-volume structured data. | Automated validation checks using Python and Excel before reporting. | Python (AI-assisted), Excel (advanced) |
+| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual errors in high-volume structured data. | Automated validation checks using Python and Excel before reporting. | Python (AI-assisted), Excel (decision tools, rule-based validation) |
 | [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Reactive audit cycles create delays and inconsistency. | SQL-based audit framework for structured datasets and reporting. | SQL (AI-assisted), database systems |
 | [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Process knowledge loss across teams. | Automated SOP generation for repeatable operational workflows. | Python (AI-assisted), Markdown |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Inconsistent tracking in high-volume case environments. | Structured validation and tracking system for case records. | Excel (advanced), Python (AI-assisted) |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Inconsistent tracking in high-volume case environments. | Structured validation and tracking system for case records. | Excel (decision tools, rule-based validation), Python (AI-assisted) |
 
 ## 🧰 Technical Stack
 
-- **Core:** Excel (decision tools, QA logic), SQL/Python (AI-assisted validation and audit workflows)  
+- **Core:** Excel (decision tools, rule-based validation, QA logic), SQL/Python (AI-assisted validation and audit workflows)  
 - **Systems:** Office 365, SharePoint, structured operational systems  
 - **Credentials:** AWS Cloud Foundations (2025), Google Prompting Essentials (2025)  
-- **Differentiator:** IT support foundation enabling rapid adaptation to complex systems and workflows  
+- **Differentiator:** IT support foundation enabling structured troubleshooting across enterprise systems and operational data workflows  
 
 ## 📈 Proven Impact
 
-- Secured a $650K federal contract stalled for 6 months within 3 weeks by resolving OSHA and compliance gaps  
+- Supported recovery of a $650K federal contract stalled for 6 months by resolving OSHA and compliance gaps within 3 weeks  
 - Maintained 98%+ accuracy across high-volume operational environments over time  
 - Reduced rework through structured validation logic and process standardization  
 - Supported consistent delivery across remote, HST-based operations aligned with EST workflows  
