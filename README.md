@@ -12,44 +12,45 @@
 
 👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_operationsmanagement-compliance-qualityassurance-activity-7450509501335601152-jA5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
-I identify data and workflow defects, resolve discrepancies, and implement rule-based controls to maintain audit-level accuracy.
+Data and workflow defects are identified through structured review processes. Discrepancies are resolved using rule-based validation logic applied to operational datasets.
 
-20+ years across government, consulting, and private-sector operations. Delivered 98%+ accuracy across 7,500+ high-volume case reviews. IT support background enabling structured troubleshooting across enterprise systems and operational data workflows.
+20+ years across government programs, consulting, and high-volume processing environments with focus on data integrity, compliance requirements, and operational consistency.
 
 ## 🧩 Work Approach
 
-- Identifies breakdown points in high-volume operational workflows and performs root-cause analysis  
-- Works independently in structured, rules-driven environments with minimal supervision  
-- Applies pattern recognition to maintain accuracy in structured data systems  
-- Builds repeatable validation logic for consistent outcomes across datasets  
+- Breakdown points in high-volume workflows are identified through root-cause analysis  
+- Structured, rules-based environments supported through consistent review and validation practices  
+- Pattern recognition applied during data review to identify inconsistencies  
+- Repeatable validation logic applied to maintain consistency across datasets  
 
 ## 🔨 Portfolio Projects
 
 | Project | Problem | Fix | Tools |
 |---------|---------|-----|-------|
-| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual errors in high-volume structured data. | Automated validation checks using Python and Excel before reporting. | Python (AI-assisted), Excel (decision tools, rule-based validation) |
-| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Reactive audit cycles create delays and inconsistency. | SQL-based audit framework for structured datasets and reporting. | SQL (AI-assisted), database systems |
-| [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Process knowledge loss across teams. | Automated SOP generation for repeatable operational workflows. | Python (AI-assisted), Markdown |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Inconsistent tracking in high-volume case environments. | Structured validation and tracking system for case records. | Excel (decision tools, rule-based validation), Python (AI-assisted) |
+| Data Validation Tool | Manual errors in structured data workflows | Validation checks applied prior to reporting | Python (AI-assisted), Excel (decision tools, validation logic) |
+| Compliance Audit Dashboard | Inconsistent audit reporting cycles | Structured SQL queries for dataset review | SQL (AI-assisted), database systems |
+| SOP Generator | Loss of process documentation across teams | Automated SOP generation for repeatable workflows | Python (AI-assisted), Markdown |
+| Eligibility Case Review Tracker | Inconsistent tracking in case environments | Structured tracking and validation framework | Excel (decision tools), Python (AI-assisted) |
 
 ## 🧰 Technical Stack
 
-- **Core:** Excel (decision tools, rule-based validation, QA logic), SQL/Python (AI-assisted validation and audit workflows)  
-- **Systems:** Office 365, SharePoint, structured operational systems  
-- **Credentials:** AWS Cloud Foundations (2025), Google Prompting Essentials (2025)  
-- **Differentiator:** IT support foundation enabling structured troubleshooting across enterprise systems and operational data workflows  
+- Excel (decision tools, validation logic, QA support)  
+- SQL / Python (AI-assisted data review and validation tasks)  
+- Office 365, SharePoint, structured operational systems  
+- AWS Cloud Foundations (2025), Google Prompting Essentials (2025)  
+- IT support background applied to structured troubleshooting across systems and data workflows  
 
 ## 📈 Proven Impact
 
-- Supported recovery of a $650K federal contract stalled for 6 months by resolving OSHA and compliance gaps within 3 weeks  
-- Maintained 98%+ accuracy across high-volume operational environments over time  
-- Reduced rework through structured validation logic and process standardization  
-- Supported consistent delivery across remote, HST-based operations aligned with EST workflows  
+- Supported resolution of a $650K federal contract stalled for 6 months by addressing compliance and process gaps within 3 weeks  
+- Maintained 98%+ accuracy across high-volume case review environments  
+- Reduced rework through structured validation and review processes  
+- Supported remote operations across HST-based workflows aligned with EST schedules  
 
 ## 🗣️ Let's Connect
 
-Targeting remote Senior Analyst roles in operations, data quality, compliance, and process improvement.
+Targeting remote Senior Analyst roles in operations, compliance, QA, eligibility, and process improvement.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JoeNetherland)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
-[![Google Developers](https://img.shields.io/badge/Google_Devs-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/TheRealDjElite)
+[![Google Dev](https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/TheRealDjElite)
