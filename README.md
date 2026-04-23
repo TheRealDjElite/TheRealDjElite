@@ -2,11 +2,11 @@
 
 [![PI-Analyzer](https://img.shields.io/badge/PI-Analyzer-FF6B35?style=flat)](https://share.google/aimode/oyqE9XaUq7UpWFdoy)
 [![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)](https://share.google/aimode/PMaYhnxDIJqVZm981)
-[![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)](https://share.google/aimode/gEobHuJcoaXazf5m9)
-[![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)](https://share.google/aimode/wJ2LGUX8RKsdudtQN)
-[![Excel](https://img.shields.io/badge/Excel-Decision%20Tools-217346?style=flat)](https://share.google/aimode/byfZJ381hO9md4s3I)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://share.google/aimode/gEobHuJcoaXazf5m9)
+[![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://share.google/aimode/wJ2LGUX8RKsdudtQN)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://share.google/aimode/byfZJ381hO9md4s3I)
 
-### Predictive Index: Analyzer | 98%+ Accuracy | Process Logic & Structured Operations
+### Predictive Index: Analyzer | Structured, pattern-based operations and compliance-focused analysis
 
 ## 🚀 Quick Intro (Elevator Pitch)
 
@@ -27,10 +27,10 @@ Data and workflow defects are identified through structured review processes. Di
 
 | Project | Problem | Fix | Tools |
 |---------|---------|-----|-------|
-| Data Validation Tool | Manual errors in structured data workflows | Validation checks applied prior to reporting | Python (AI-assisted), Excel (decision tools, validation logic) |
-| Compliance Audit Dashboard | Inconsistent audit reporting cycles | Structured SQL queries for dataset review | SQL (AI-assisted), database systems |
-| SOP Generator | Loss of process documentation across teams | Automated SOP generation for repeatable workflows | Python (AI-assisted), Markdown |
-| Eligibility Case Review Tracker | Inconsistent tracking in case environments | Structured tracking and validation framework | Excel (decision tools), Python (AI-assisted) |
+| Data Validation Tool | Manual errors in structured data workflows | Validation checks applied prior to reporting | Python, Excel (decision tools, validation logic) |
+| Compliance Audit Dashboard | Inconsistent audit reporting cycles | Structured SQL queries for dataset review | SQL, database systems |
+| SOP Generator | Loss of process documentation across teams | Automated SOP generation for repeatable workflows | Python, Markdown |
+| Eligibility Case Review Tracker | Inconsistent tracking in case environments | Structured tracking and validation framework | Excel (decision tools), Python |
 
 ## 🧰 Technical Stack
 
