@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://share.google/aimode/gEobHuJcoaXazf5m9)
 [![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://share.google/aimode/wJ2LGUX8RKsdudtQN)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://share.google/aimode/byfZJ381hO9md4s3I)
+<br>
+<sub>_All badges are clickable links to supporting references and additional context._</sub>
 
 ### Predictive Index: Analyzer | Structured, pattern-based operations and compliance-focused analysis
 
@@ -51,6 +53,8 @@ Data and workflow defects are identified through structured review processes. Di
 
 Targeting remote Senior Analyst roles in operations, compliance, QA, eligibility, and process improvement.
 
+<sub>_Click badges below for profiles and contact links._</sub>
+<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
 [![Google Dev](https://img.shields.io/badge/Google%20Dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/TheRealDjElite)
