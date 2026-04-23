@@ -4,7 +4,7 @@
 ![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)
 ![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)
-![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=flat)
+![Excel](https://img.shields.io/badge/Excel-Decision%20Tools-217346?style=flat)
 
 ### Predictive Index: Analyzer | 98%+ Accuracy | Process Logic & Structured Operations
 
