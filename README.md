@@ -12,7 +12,7 @@
 
 ## 🚀 Quick Intro (Elevator Pitch)
 
-👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_operationsmanagement-compliance-qualityassurance-activity-7450509501335601152-jA5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
+👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/posts/joenetherland_senior-operations-compliance-analyst-ugcPost-7455031412950347776-ktKY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
 
 Focus on structured analysis of operational data, workflow validation, and compliance-driven processes. Projects demonstrate rule-based validation, SQL auditing, and process standardization using Python, Excel, and SQL.
 
