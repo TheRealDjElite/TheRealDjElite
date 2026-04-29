@@ -12,7 +12,7 @@
 
 ## 🚀 Quick Intro (Elevator Pitch)
 
-👉🔗 [LinkedIn Featured Post](https://www.linkedin.com/in/joenetherland/overlay/1777479457087/single-media-viewer/?profileId=ACoAABuUQe8BENH9sn47zsZVNNrNbRR8rFgj-ic)
+👉🔗 [LinkedIn Featured Post](https://media.licdn.com/dms/image/v2/D562DAQF4SeXFgqpD-g/profile-treasury-document-images_1920/B56Z3aB5TZIkAs-/1/1777479426191?e=1778112000&v=beta&t=E4AafJPbga0WJxJgqxPqP5n7nTnnR-Efr1vZu9voiyU)
 
 Focus on structured analysis of operational data, workflow validation, and compliance-driven processes. Projects demonstrate rule-based validation, SQL auditing, and process standardization using Python, Excel, and SQL.
 
