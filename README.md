@@ -37,8 +37,8 @@ Focus on structured analysis of operational data, workflow validation, and compl
 - Excel (decision tools, validation logic, QA support)  
 - SQL / Python (AI-assisted data review and validation tasks)  
 - Office 365, SharePoint, structured operational systems  
-- AWS Cloud Foundations (2025), Google Prompting Essentials (2025)  
-- IT support background applied to structured troubleshooting across systems and data workflows  
+- AWS Cloud Foundations coursework (2025), Google Prompting Essentials [Credential ID I638SSKWQ210] (2025)  
+- Structured troubleshooting across systems and data workflows, informed by early IT support and command-line environments  
 
 ## 🗣️ Let's Connect
 
