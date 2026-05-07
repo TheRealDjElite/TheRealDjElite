@@ -10,7 +10,7 @@
 
 ## Quick Intro
 
-👉 [LinkedIn Featured Post](https://media.licdn.com/dms/image/v2/D562DAQHNnf9KLPge1Q/profile-treasury-document-images_1920/B56Z3_uiVXIoAo-/1/1778111885103?e=1779321600&v=beta&t=CQ6BkGzpLl0_4jsXe04v4G1gL-_NBg_RttzeDaC-xSw)
+👉 [LinkedIn Featured Post](https://media.licdn.com/dms/image/v2/D562DAQE03RUiqw80gA/profile-treasury-document-images_1920/B56Z4Cx.wxIQBA-/1/1778163118742?e=1779321600&v=beta&t=6I4Fln-jYjqH9WtXKgivBQaibHl-1Kal_zaSHYOJ6Go)
 
 ## Work Focus
 
