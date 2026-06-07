@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td>
-      <a href="images/20260606-Quick-Intro-Joseph-Netherland.pdf">
-        <img src="images/20260606-Quick-Intro-Joseph-Netherland-thumbnail.png" alt="Quick Intro Thumbnail" width="240">
+      <a href="images/20260607-Quick-Intro-Joseph-Netherland.pdf">
+        <img src="images/20260607-Quick-Intro-Joseph-Netherland.png" alt="Quick Intro Thumbnail" width="240">
       </a>
       <div align="center"><sub>(click to open PDF)</sub></div>
     </td>
