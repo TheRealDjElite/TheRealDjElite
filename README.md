@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Operations, QA, and Data Integrity Systems
+# Operations, Compliance & Data Quality Portfolio
 
 [![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://en.wikipedia.org/wiki/SQL)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://en.wikipedia.org/wiki/Microsoft_Excel)
@@ -39,12 +39,12 @@
 
 ## 🛠️ Portfolio Projects
 
-| Project | Problem | My Approach | Result |
-|----------|----------|-------------|---------|
-| Data Validation Tool | Manual data errors | Python-based automated validation rules | Cleaner data and reduced manual review |
-| Compliance Audit Dashboard | Inconsistent reporting | SQL-based validation and reporting logic | Reliable, audit-ready reporting |
-| Eligibility Case Review Tracker | Process inconsistencies | Structured data flagging and review workflows | Faster and more consistent case handling |
-| SOP Generator | Documentation gaps | Automated Markdown-based SOP generation | Standardized and accessible documentation |
+| Project | Problem | My Approach | Result | Impact |
+|----------|----------|-------------|---------|---------|
+| Data Validation Tool | Manual data errors | Python-based automated validation rules | Cleaner data and reduced manual review | Supports higher data quality and more efficient QA workflows |
+| Compliance Audit Dashboard | Inconsistent reporting | SQL-based validation and reporting logic | Reliable, audit-ready reporting | Enables consistent compliance reviews and audit preparation |
+| Eligibility Case Review Tracker | Process inconsistencies | Structured data flagging and review workflows | Faster and more consistent case handling | Promotes standardized case review and reduces rework |
+| SOP Generator | Documentation gaps | Automated Markdown-based SOP generation | Standardized and accessible documentation | Improves knowledge transfer and workflow consistency |
 
 ---
 
