@@ -2,15 +2,16 @@
 
 # Operations, Process Improvement & Compliance
 
-**Joseph Netherland** | Remote-Ready, All US Time Zones | Honolulu, HI
+**Joseph Netherland**<br>
+Honolulu, HI • Available for Remote Roles (US)
 
 *Accuracy • Consistency • Reliability*
 
 Targeting: Operations • Compliance • QA • Eligibility • Data Integrity • Process Improvement
 
-[![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)]()
-[![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)]()
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat)]()
+[![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)]()
+[![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)]()
 
 </div>
 
@@ -18,7 +19,7 @@ Targeting: Operations • Compliance • QA • Eligibility • Data Integrity �
 
 ## 👤 Background
 
-Stabilizes high-volume operations across government, federal contracting, and consulting environments, with a focus on regulatory compliance and data integrity. Uses Excel, SQL, and Python to support validation, reporting accuracy, and process reliability.
+Operations and compliance professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, AI-assisted SQL, and AI-assisted Python to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
 - Managed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
@@ -42,34 +43,39 @@ Stabilizes high-volume operations across government, federal contracting, and co
 
 ---
 
-## 🔍 Focus
+## 🔍 What I Build
 
-Built to catch errors before they reach production, keep reporting audit-ready, and reduce manual rework, using AI-assisted Python and SQL as operational tools.
+Built to catch errors before they reach production, keep reporting audit-ready, and reduce manual rework through practical validation, workflow automation, and process standardization.
 
 ---
 
 ## 🛠️ Projects
 
+These projects demonstrate practical approaches to improving data quality, standardizing workflows, and supporting audit-ready operations.
+
 | Project | Problem | Approach | Result |
 |---|---|---|---|
-| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Cleaner data, less manual review |
-| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + validation queries | Reliable, audit-ready reporting |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Process inconsistency | Structured flagging & review workflow | Faster, more consistent case handling |
-| [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Standardized, accessible documentation |
+| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Improved data quality, reduced manual review |
+| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + validation queries | Consistent, audit-ready reporting |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Process inconsistency | Structured flagging & review workflow | Standardized case review workflow |
+| [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Consistent process documentation |
 
 ---
 
 ## 💻 Tools & Systems
 
-- Advanced Excel (validation logic, reporting)
-- SQL & Python (AI-assisted, operational tooling)
-- Office 365 / SharePoint
-- Google Prompting Essentials (Certified, 2025)
-- AWS Cloud Foundations (coursework, 2025)
+- Advanced Excel (AI-assisted validation, reporting, workflow support)
+- SQL (AI-assisted validation queries, audit reporting)
+- Python (AI-assisted workflow automation and data validation)
+- Office 365 and SharePoint
+- AWS Cloud Foundations (Coursework)
+- Google Prompting Essentials (Certified)
 
 ---
 
 ## 🌐 Connect
+
+Interested in opportunities involving operations, compliance, QA, data quality, and process improvement in regulated or high-volume environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
