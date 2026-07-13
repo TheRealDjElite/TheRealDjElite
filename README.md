@@ -6,6 +6,8 @@
 
 *Accuracy • Consistency • Reliability*
 
+Targeting: Operations • Compliance • QA • Eligibility • Data Integrity • Process Improvement
+
 [![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)]()
 [![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)]()
 [![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)]()
@@ -69,8 +71,6 @@ These projects apply that same rules-based, audit-ready mindset to data and proc
 ---
 
 ## 🌐 Connect
-
-Targeting remote roles in operations, compliance, QA, and data integrity.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
