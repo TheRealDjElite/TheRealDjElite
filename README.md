@@ -8,7 +8,6 @@
 
 Targeting: Operations • Compliance • QA • Eligibility • Data Integrity • Process Improvement
 
-[![Remote](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)]()
 [![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)]()
 [![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)]()
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat)]()
@@ -45,7 +44,7 @@ Stabilizes high-volume operations across government, federal contracting, and co
 
 ## 🔍 Focus
 
-These projects apply that same rules-based, audit-ready mindset to data and process problems, using AI-assisted Python and SQL to support operational workflows.
+Built to catch errors before they reach production, keep reporting audit-ready, and reduce manual rework, using AI-assisted Python and SQL as operational tools.
 
 ---
 
