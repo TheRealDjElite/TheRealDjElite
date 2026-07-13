@@ -33,10 +33,10 @@ Operations and compliance professional with 20+ years of experience across gover
 <table>
   <tr>
     <td align="center">
-      <a href="images/20260706-QUICK-INTRO-featured-post-image-standard-OTNO.pdf">
+      <a href="images/20260706-QUICK-INTRO-featured-post-image-standard-OTNO.png">
         <img src="images/20260706-QUICK-INTRO-featured-post-image-thumbnail-OTNO.jpg" alt="Quick Intro Thumbnail" width="240">
       </a>
-      <br><sub>(click to open PDF)</sub>
+      <br><sub>(click to enlarge 11" x 8.5" infographic)</sub>
     </td>
   </tr>
 </table>
