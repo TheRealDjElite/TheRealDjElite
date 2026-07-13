@@ -20,7 +20,7 @@ Targeting: Operations • Compliance • QA • Eligibility • Data Integrity �
 
 ## 👤 Background
 
-Operations and compliance professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, AI-assisted SQL, and AI-assisted Python to improve validation, reporting accuracy, and process reliability.
+Operations and compliance professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
 - Managed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
