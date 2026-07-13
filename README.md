@@ -2,7 +2,7 @@
 
 # Operations, Process Improvement & Compliance
 
-**Joseph Netherland** | Remote-Ready | Honolulu, HI
+**Joseph Netherland** | Remote-Ready, All US Time Zones | Honolulu, HI
 
 *Accuracy • Consistency • Reliability*
 
