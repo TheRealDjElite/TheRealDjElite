@@ -2,12 +2,10 @@
 
 # Operations, Process Improvement & Compliance
 
-**Joseph Netherland**<br>
-Honolulu, HI • Available for Remote Roles (US)
-
-*Accuracy • Consistency • Reliability*
-
-Targeting: Operations • Compliance • QA • Eligibility • Data Integrity • Process Improvement
+### Joseph Netherland
+Honolulu, HI • Available for Remote Roles (US)</br>
+*Accuracy • Consistency • Reliability*</br>
+Operations • Process Improvement • Compliance • QA • Data Integrity
 
 [![AI-Assisted](https://img.shields.io/badge/AI-Assisted-blueviolet?style=flat)]()
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat)]()
