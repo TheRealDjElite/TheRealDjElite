@@ -9,9 +9,10 @@ Honolulu, HI • Available for Remote Roles (US)
 
 Targeting: Operations • Compliance • QA • Eligibility • Data Integrity • Process Improvement
 
+[![AI-Assisted](https://img.shields.io/badge/AI-Assisted-blueviolet?style=flat)]()
 [![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat)]()
-[![SQL](https://img.shields.io/badge/SQL-AI--Assisted-007ACC?style=flat)]()
-[![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat)]()
+[![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat)]()
 
 </div>
 
