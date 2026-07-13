@@ -2,12 +2,10 @@
 
 # Operations, QA, and Data Integrity Systems
 
-[![PI-Analyzer](https://img.shields.io/badge/PI--Analyzer-FF6B35?style=flat)](https://share.google/aimode/aQha0t9hn5IJDKTas)
-[![Remote Ready](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)](https://share.google/aimode/Jz2aQ7aJ0BB0Q9s6V)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://share.google/aimode/X4mmHnp0yoPSAEmh8)
-[![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://share.google/aimode/WoMtwGujQq56VTiDr)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://share.google/aimode/UKhxYqQ7vKKNe2rXc)
-<br><sub>All badges link to supporting references and context.</sub>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat)](https://en.wikipedia.org/wiki/Python_(codename))
+[![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)](https://en.wikipedia.org/wiki/SQL)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat)](https://en.wikipedia.org/wiki/Microsoft_Excel)
+[![Remote Ready](https://img.shields.io/badge/Remote-Ready-00D4AA?style=flat)](https://en.wikipedia.org/wiki/Remote_work)
 
 </div>
 
@@ -18,8 +16,8 @@
 <table>
   <tr>
     <td>
-      <a href="images/20260515-Quick-Intro-Joseph-Netherland.pdf">
-        <img src="images/20260515-Quick-Intro-Joseph-Netherland-thumbnail.png" alt="Quick Intro Thumbnail" width="240">
+      <a href="images/20260706-QUICK-INTRO-featured-post-image-standard-OTNO.pdf">
+        <img src="images/20260706-QUICK-INTRO-featured-post-image-thumbnail-OTNO.jpg" alt="Quick Intro Thumbnail" width="240">
       </a>
       <div align="center"><sub>(click to open PDF)</sub></div>
     </td>
@@ -30,10 +28,10 @@
 
 ## 🔍 Work Focus
 
-- Analyze high-volume workflows to identify and resolve operational bottlenecks
-- Build validation checks to catch and correct data errors before they impact downstream systems
-- Design structured reporting frameworks that support audit readiness and consistency
-- Create repeatable systems to standardize SOPs and reduce manual rework
+- Analyze high-volume workflows to identify and resolve operational bottlenecks  
+- Build validation checks to identify and correct data errors before downstream impact  
+- Design reporting frameworks that support audit readiness and operational consistency  
+- Create repeatable systems to standardize SOPs and reduce manual rework  
 
 ---
 
@@ -50,12 +48,12 @@
 
 ## 💻 Tools & Systems
 
-- Advanced Excel (structured validation logic, reporting support)
-- SQL and Python (AI-assisted workflow automation and data validation)
-- Office 365 and SharePoint-based operational systems
-- AWS Cloud Foundations coursework (2025)
-- Google Prompting Essentials (2025)
-- Experience working across legacy and modern enterprise systems with a strong data integrity and troubleshooting focus
+- Excel (structured reporting and validation support)  
+- SQL and Python (AI-assisted data validation and workflow support)  
+- Office 365 and SharePoint-based operational systems  
+- AWS Cloud Foundations coursework (2025)  
+- Google Prompting Essentials (2025)  
+- Experience across legacy and modern enterprise systems with strong data integrity and troubleshooting focus  
 
 ---
 
