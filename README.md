@@ -29,6 +29,8 @@ Operations and compliance professional with 20+ years of experience across gover
 
 ## 📄 Quick Intro
 
+A one-page overview of my experience, measurable results, and the operational challenges I've helped organizations solve.
+
 <table>
   <tr>
     <td align="center">
