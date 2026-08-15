@@ -35,7 +35,7 @@ A one-page overview of my experience, measurable results, and the operational ch
   <tr>
     <td align="center">
       <a href="images/202600814-QUICK-INTRO-featured-post-image-standard-OTNO-e.jpg">
-        <img src="images/0260814-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
+        <img src="images/20260814-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
       </a>
       <br><sub>(click to enlarge 11" x 8.5" infographic)</sub>
     </td>
