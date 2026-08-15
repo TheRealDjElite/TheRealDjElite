@@ -1,6 +1,6 @@
 <div align="center">
 
-# Operations, Process Improvement & Compliance
+# Business Analyst | Operations, Process Improvement & Compliance
 
 <B>JOSEPH NETHERLAND</B></br>
 Honolulu, HI • Available for Remote Roles (US)</br>
@@ -18,7 +18,7 @@ Operations • Process Improvement • Compliance • QA • Data Integrity
 
 ## 👤 Background
 
-Operations and compliance professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
+Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
 - Managed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
@@ -58,7 +58,7 @@ These projects demonstrate practical approaches to improving data quality, stand
 |---|---|---|---|
 | [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Improved data quality, reduced manual review |
 | [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + validation queries | Consistent, audit-ready reporting |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Process inconsistency | Structured flagging & review workflow | Standardized case review workflow |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Process inconsistency | Python/Excel-based validation and flagging | Standardized case review workflow |
 | [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Consistent process documentation |
 
 ---
@@ -76,7 +76,7 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 ## 🌐 Connect
 
-Interested in opportunities involving operations, compliance, QA, data quality, and process improvement in regulated or high-volume environments.
+Interested in opportunities involving business analysis, operations, compliance, QA, data quality, and process improvement in regulated or high-volume environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/JoeNetherland)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeNetherland@gmail.com?subject=Hello%20from%20GitHub!)
