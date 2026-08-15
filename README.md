@@ -1,6 +1,6 @@
 <div align="center">
 
-# Business Analyst | Operations, Process Improvement & Compliance
+# Business Analyst</br>Operations, Process Improvement & Compliance
 
 <B>JOSEPH NETHERLAND</B></br>
 Honolulu, HI • Available for Remote Roles (US)</br>
