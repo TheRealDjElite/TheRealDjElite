@@ -56,9 +56,9 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 | Project | Problem | Approach | Result |
 |---|---|---|---|
-| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Improved data quality, reduced manual review |
-| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + validation queries | Consistent, audit-ready reporting |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Process inconsistency | Python/Excel-based validation and flagging | Standardized case review workflow |
+| [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Errors flagged automatically before manual review |
+| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + audit queries | Audit-flagged cases surfaced for review |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Incomplete case records | Python-based missing-data flagging | Incomplete records flagged for review |
 | [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Consistent process documentation |
 
 ---
