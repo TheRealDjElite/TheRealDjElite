@@ -18,11 +18,13 @@ Operations • Compliance • QA
 
 ## 👤 Background
 
-Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
+**I find where systems break and fix them in ways that hold.**
+
+Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, and consulting environments. I learn new systems fast and focus on process improvement and data integrity, using Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
-- Processed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
-- Rebuilt a $650K federal proposal using Air Force specs and OSHA regulations
+- Processed and reviewed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
+- Rebuilt a $650K federal proposal that had stalled for nearly 6 months, completing it in 3 weeks to Air Force specs and OSHA regulations before the deadline
 - Developed SOPs, validation trackers, and training materials to improve consistency and reduce errors
 
 ---
@@ -46,7 +48,7 @@ A one-page overview of my experience, measurable results, and the operational ch
 
 ## 🔍 What I Build
 
-Built to catch errors before they reach production, keep reporting audit-ready, and reduce manual rework through practical validation, workflow automation, and process standardization.
+Built to catch errors before they reach review or reporting, keep records audit-ready, and reduce manual rework through practical validation, workflow automation, and process standardization.
 
 ---
 
@@ -66,11 +68,12 @@ These projects demonstrate practical approaches to improving data quality, stand
 ## 💻 Tools & Systems
 
 - Advanced Excel (AI-assisted validation, reporting, workflow support)
-- SQL (AI-assisted validation queries, audit reporting)
-- Python (AI-assisted workflow automation and data validation)
-- Office 365 and SharePoint
+- SQL (AI-assisted audit tracking and data checks)
+- Python (AI-assisted data validation and QA workflows)
+- AI Tools: ChatGPT, Claude, Copilot, Gemini (drafting, summaries, analysis)
+- Office 365
 - AWS Cloud Foundations (Coursework)
-- Google Prompting Essentials (Certified)
+- Google Prompting Essentials (Certificate)
 
 ---
 
