@@ -21,9 +21,9 @@ Operations • Process Improvement • Compliance • QA • Data Integrity
 Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, and consulting environments. Uses Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
-- Managed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
-- Recovered a stalled $650K federal contract through OSHA/military compliance remediation
-- Developed SOPs and validation workflows that reduced rework by 20%
+- Processed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
+- Rebuilt a $650K federal proposal using Air Force specs and OSHA regulations
+- Developed SOPs, validation trackers, and training materials to improve consistency and reduce errors
 
 ---
 
