@@ -20,7 +20,7 @@ Operations • Compliance • QA
 
 **I find where systems break and fix them in ways that hold.**
 
-Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, and consulting environments. I learn new systems fast and focus on process improvement and data integrity, using Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
+Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, consulting, and private-sector environments. I learn new systems fast and focus on process improvement and data integrity, using Advanced Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
 
 **Highlights:**
 - Processed and reviewed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
