@@ -24,7 +24,7 @@ Business Analyst and Operations professional with 20+ years of experience across
 
 **Highlights:**
 - Processed and reviewed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
-- Rebuilt a $650K federal proposal that had stalled for nearly 6 months, completing it in 3 weeks to Air Force specs and OSHA regulations before the deadline
+- Built a $650K federal proposal from scratch in 3 weeks after a 6-month stall
 - Developed SOPs, validation trackers, and training materials to improve consistency and reduce errors
 
 ---
@@ -59,8 +59,8 @@ These projects demonstrate practical approaches to improving data quality, stand
 | Project | Problem | Approach | Result |
 |---|---|---|---|
 | [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Errors flagged automatically before manual review |
-| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Inconsistent reporting | SQL schema + audit queries | Audit-flagged cases surfaced for review |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Incomplete case records | Python-based missing-data flagging | Incomplete records flagged for review |
+| [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Missing or invalid case data | SQL schema + audit and data integrity queries | Data issues and audit-flagged cases surfaced for review |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Incomplete case records | Python-based case review flags with notes | Incomplete records flagged for review |
 | [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Consistent process documentation |
 
 ---
