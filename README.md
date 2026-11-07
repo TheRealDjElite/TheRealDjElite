@@ -4,11 +4,10 @@
 
 <b>JOSEPH NETHERLAND</b><br>
 Honolulu, HI • Remote (U.S.) • Works in any U.S. time zone<br>
-*Accuracy • Consistency • Reliability*<br>
-Operations • Compliance • QA
+*Accuracy • Consistency • Reliability*
 
 [![AI-Assisted](https://img.shields.io/badge/AI-Assisted-blueviolet?style=flat)]()
-[![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat)]()
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat)]()
 [![SQL](https://img.shields.io/badge/SQL-007ACC?style=flat)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat)]()
 
@@ -21,11 +20,6 @@ Operations • Compliance • QA
 **I find where systems break and fix them in ways that hold.**
 
 Business Analyst and Operations professional with 20+ years of experience across government, federal contracting, consulting, and private-sector environments. I learn new systems fast and focus on process improvement and data integrity, using Advanced Excel, SQL, and Python in AI-assisted workflows to improve validation, reporting accuracy, and process reliability.
-
-**Highlights:**
-- Processed and reviewed 7,500+ Medicaid cases in IES with 98%+ audit accuracy
-- Built a $650K federal proposal from scratch in 3 weeks after a 6-month stall
-- Developed SOPs, validation trackers, and training materials to improve consistency and reduce errors
 
 ---
 
@@ -65,15 +59,12 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 ---
 
-## 💻 Tools & Systems
+## 💻 Built With
 
-- Advanced Excel (AI-assisted validation, reporting, workflow support)
-- SQL (AI-assisted audit tracking and data checks)
-- Python (AI-assisted data validation and QA workflows)
-- AI Tools: ChatGPT, Claude, Copilot, Gemini (drafting, summaries, analysis)
-- Office 365
-- AWS Cloud Foundations (Coursework)
-- Google Prompting Essentials (Certificate)
+- Python - data validation and case review flagging (pandas), SOP generation
+- SQL (MySQL) - schema design, audit and data integrity queries
+- Excel - input template for case review tracking
+- AI-assisted development
 
 ---
 
