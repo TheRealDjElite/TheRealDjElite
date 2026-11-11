@@ -52,6 +52,7 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 | Project | Problem | Approach | Result |
 |---|---|---|---|
+| [Case Reconciliation & Aging Report](https://github.com/TheRealDjElite/CaseReconciliationAgingReport) | System and team tracker records out of sync | Python + SQL reconciliation and aging checks with formatted Excel report | Mismatches, missing records, and overdue cases flagged for review |
 | [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Errors flagged automatically before manual review |
 | [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Missing or invalid case data | SQL schema + audit and data integrity queries | Data issues and audit-flagged cases surfaced for review |
 | [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Incomplete case records | Python-based case review flags with notes | Incomplete records flagged for review |
@@ -61,9 +62,9 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 ## 💻 Built With
 
-- Python - data validation and case review flagging (pandas), SOP generation
-- SQL (MySQL) - schema design, audit and data integrity queries
-- Excel - input template for case review tracking
+- Python - data validation, case review flagging, and reconciliation (pandas, openpyxl), SOP generation
+- SQL (MySQL, SQLite) - schema design, audit, data integrity, reconciliation, and aging queries
+- Excel - case review input template, formatted reconciliation report with formulas and conditional formatting
 - AI-assisted development
 
 ---
