@@ -60,7 +60,7 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 - Python - data validation, case review tracking, and reconciliation (pandas, openpyxl), SOP generation
 - SQL (MySQL, SQLite) - schema design, audit, data integrity, reconciliation, and aging queries
-- Excel - Excel - input template with dropdowns and validation, formatted reports with formulas and conditional formatting
+- Excel - input template with dropdowns and validation, formatted reports with formulas and conditional formatting
 - AI-assisted development
 
 ---
