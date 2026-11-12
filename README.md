@@ -27,6 +27,7 @@ Business Analyst and Operations professional with 20+ years of experience across
 
 A one-page overview of my experience, measurable results, and the operational challenges I've helped organizations solve.
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
@@ -37,6 +38,7 @@ A one-page overview of my experience, measurable results, and the operational ch
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
