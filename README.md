@@ -28,16 +28,10 @@ Business Analyst and Operations professional with 20+ years of experience across
 A one-page overview of my experience, measurable results, and the operational challenges I've helped organizations solve.
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="images/20261111-QUICK-INTRO-featured-post-image-standard-OTNO-e.jpg">
-        <img src="images/20261111-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
-      </a>
-      <br><sub>(click to enlarge 11" x 8.5" infographic)</sub>
-    </td>
-  </tr>
-</table>
+  <a href="images/20261111-QUICK-INTRO-featured-post-image-standard-OTNO-e.jpg">
+    <img src="images/20261111-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
+  </a>
+  <br><sub>(click to enlarge 11" x 8.5" infographic)</sub>
 </div>
 
 ---
@@ -55,18 +49,18 @@ These projects demonstrate practical approaches to improving data quality, stand
 | Project | Problem | Approach | Result |
 |---|---|---|---|
 | [Case Reconciliation & Aging Report](https://github.com/TheRealDjElite/CaseReconciliationAgingReport) | System and team tracker records out of sync | Python + SQL reconciliation and aging checks with formatted Excel report | Mismatches, missing records, and overdue cases flagged for review |
+| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Flagged issues not followed up | Python review log tracked across runs, with Excel summary by worker | Open, overdue, and resolved issues tracked per worker |
 | [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules | Errors flagged automatically before manual review |
 | [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Missing or invalid case data | SQL schema + audit and data integrity queries | Data issues and audit-flagged cases surfaced for review |
-| [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Incomplete case records | Python-based case review flags with notes | Incomplete records flagged for review |
 | [SOP Generator](https://github.com/TheRealDjElite/SopGenerator) | Documentation gaps | Automated Markdown SOP generation | Consistent process documentation |
 
 ---
 
 ## 💻 Built With
 
-- Python - data validation, case review flagging, and reconciliation (pandas, openpyxl), SOP generation
+- Python - data validation, case review tracking, and reconciliation (pandas, openpyxl), SOP generation
 - SQL (MySQL, SQLite) - schema design, audit, data integrity, reconciliation, and aging queries
-- Excel - case review input template, formatted reconciliation report with formulas and conditional formatting
+- Excel - input template with dropdowns and validation, formatted reports with formulas and conditional formatting
 - AI-assisted development
 
 ---
