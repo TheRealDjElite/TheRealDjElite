@@ -28,8 +28,8 @@ Business Analyst and Operations professional with 20+ years of experience across
 A one-page overview of my experience, measurable results, and the operational challenges I've helped organizations solve.
 
 <div align="center">
-  <a href="images/20261111-QUICK-INTRO-featured-post-image-standard-OTNO-e.jpg">
-    <img src="images/20261111-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
+  <a href="images/20261112-QUICK-INTRO-featured-post-image-standard-OTNO-e.jpg">
+    <img src="images/20261112-QUICK-INTRO-featured-post-image-thumbnail-OTNO-e.jpg" alt="Quick Intro Thumbnail" width="240">
   </a>
   <br><sub>(click to enlarge 11" x 8.5" infographic)</sub>
 </div>
