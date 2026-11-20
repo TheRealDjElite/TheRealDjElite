@@ -54,7 +54,7 @@ These projects demonstrate practical approaches to improving data quality, stand
 
 | Project | Problem | Approach | Result |
 |---|---|---|---|
-| [Case Reconciliation & Aging Report](https://github.com/TheRealDjElite/CaseReconciliationAgingReport) | System and team tracker records out of sync | Python + SQL reconciliation and aging checks with formatted Excel report | Mismatches, missing records, and overdue cases flagged for review |
+| [Case Reconciliation & Aging Report](https://github.com/TheRealDjElite/CaseReconciliationAgingReport) | System and team tracker records out of sync | Python + SQL reconciliation and aging checks, formatted Excel report, and source-to-target data mapping | Mismatches, missing records, and overdue cases flagged for review |
 | [Data Validation Tool](https://github.com/TheRealDjElite/DataValidationTool) | Manual data errors | Python-based field-level validation rules, with UAT test plan and defect log | Errors flagged automatically before manual review |
 | [Compliance Audit Dashboard](https://github.com/TheRealDjElite/ComplianceAuditDashboard) | Missing or invalid case data | SQL audit queries, with user stories and acceptance criteria | Data issues and audit-flagged cases surfaced for review |
 | [Eligibility Case Review Tracker](https://github.com/TheRealDjElite/EligibilityCaseReviewTracker) | Flagged issues not followed up | Python review log tracked across runs, with Excel summary by worker | Open, overdue, and resolved issues tracked per worker |
